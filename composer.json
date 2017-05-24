@@ -1,0 +1,12 @@
+{
+    "name": "ankitatejani84/hello_world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ankitatejani84",
+            "email": "ankitatejani84@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
